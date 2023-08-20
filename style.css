@@ -599,6 +599,7 @@ img{
     color: #fff;
     font-family: Georgia;
     padding: 5px;
+    cursor: pointer;
 }
 .child_footer input[type="button"]:hover{
     background: #1e5a82;
