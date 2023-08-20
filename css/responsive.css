@@ -1,0 +1,116 @@
+/* Tablet Layout */
+@media only screen and (min-width:200px) and (max-width:991px){
+    .inner_menu {
+        padding: 0px;
+      }
+      .contact_text {
+        padding: 15px 0 0px;
+      }
+      .contact_text h3 {
+        font-size: 27px;
+      }
+      .contact_button input {
+        font-size: 22px;
+      }
+      .contact_button {
+        padding: 50px 5px;
+      }
+      .work_tbox h4 {
+        font-size: 15px;
+      }
+      .work_tbox p {
+        font-size: 12px;
+      }
+      
+
+
+
+
+}
+      
+      /* Mobile Layout */
+
+      @media only screen and (min-width:200px) and (max-width:480px){
+        .mini_menu {
+            width: 100%;
+            margin-bottom: 10px;
+          }
+          .mini_menu ul, .social_area ul {
+            text-align: center;
+          }
+          .social_area {
+            width: 100%;
+          }
+          .logo_area, .search_area {
+            float: none;
+            width: 200px;
+            margin: 0 auto;
+          }
+          .search_area input {
+            width: 60%;
+          }
+          .search_area form [type="submit"] {
+            width: 30%;
+          }
+          .hero_text {
+            width:100%;
+            margin-top: 0px;
+            float: none;
+          }
+          .hero_text h1 {
+            font-size: 33px;
+          }
+          #slider_area {
+            padding-top: 40px;
+            width: 100%;
+            float: none;
+          }
+          .work_graph, .work_text {
+            width: 100%;
+          }
+          .contact_button {
+            width: 67%;
+            float: none;
+            margin: 0 auto;
+            padding: 15px 0;
+          }
+          .contact_text {
+            width: 100%;
+            float: none;
+            margin: 0 auto;
+          }
+          .contact_button input {
+            margin-top: 0; 
+          }
+          #footer_area {
+            padding: 20px 0 10px;
+          }
+          .child_footer {
+            width: 96%;
+            float: none;
+          }
+          .left_copyright {
+            float: none;
+            width: 100%;
+          }
+          .right_copyright {
+            width: 100%;
+            float: none;
+          }
+          .contact_text h3 {
+            line-height: 1.2em;
+          }
+
+
+
+
+
+        }
+
+
+
+
+
+
+
+
